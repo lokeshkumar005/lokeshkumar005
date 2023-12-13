@@ -3,7 +3,7 @@
 
 <img align="right" alt="code" width="200" height="200" src="https://media.istockphoto.com/id/1362026448/vector/web-developer-rgb-color-icon.jpg?b=1&s=170667a&w=0&k=20&c=5HtKVC_gZYN-VZXSZtzm-l415qdKwutfX_BAG_jMqgU="/>
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Front_End_Development**
 
 - 📫 How to reach me **lokeshkumar5067@gmail.com**
 
